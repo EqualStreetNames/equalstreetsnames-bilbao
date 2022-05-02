@@ -12,6 +12,7 @@ name,source,gender,wikidata,type
 "Acceso Bilbao Arena",,,,way
 "Acceso Euskalduna",,,,way
 "Acceso N-634",,,,way
+"Acceso a Bilbao por el Norte (Asua-Enekuri)",,,,way
 "Acceso a Mina Primitiva",,,,way
 "Acceso a ascensor",,,,way
 "Acceso a huertas",,,,way
@@ -73,7 +74,7 @@ Arenal,,,,relation
 "Aretxabaleta bidea",,,,way
 "Aretxabaleta kalea",,,,way
 "Aretxaga kalea / Calle Aretxaga",,,,way
-Argiñao,,,,way
+Arginao,,,,way
 "Armotxa kalea",,,,way
 Armotxabidea,,,,way
 "Arraiz etxealdea",,,,way
@@ -103,7 +104,6 @@ Artazubidea,,,,way
 "Aurelio Arteta Margolariaren kalea",,,,way
 "Aurrekoetxea kalea",,,,way
 "Autonomia kalea / Calle Autonomía",,,,way
-"Autovía del Cantábrico",,,,way
 "Avenida Abandoibarra",,,,way
 "Avenida Askatasuna",,,,way
 "Avenida Askatasuna / Askatasuna etorbidea",,,,way
@@ -117,7 +117,6 @@ Artazubidea,,,,way
 "Avenida Lapurdi / Lapurdi etorbidea",,,,way
 "Avenida Lehendakari Aguirre / Agirre lehendakariaren etorbidea",,,,way
 "Avenida Madariaga / Madariaga etorbidea",,,,way
-"Avenida Maurice Ravel / Maurice Ravel etorbidea",,,,way
 "Avenida Miraflores",,,,way
 "Avenida Montevideo / Montevideo etorbidea",,,,way
 "Avenida Pau Casals",,,,way
@@ -538,7 +537,6 @@ Bolintxubidea,,,,way
 "Calle Rodríguez Arias",,,,way
 "Calle Rodríguez Arias / Rodriguez Arias kalea",,,,way
 "Calle Ronda / Erronda kalea",,,,way
-"Calle Sagardui / Sagardui kalea",,,,way
 "Calle Sagrada Familia / Familia Santuaren kalea",,,,way
 "Calle Salou / Salou kalea",,,,way
 "Calle San Francisco / San Frantzisko kalea",,,,way
@@ -637,7 +635,6 @@ Bolintxubidea,,,,way
 "Camino de Ugasko",,,,way
 "Camino de Urizar",,,,way
 "Camino de Zubisikubidea",,,,way
-"Camino de la Junquera / Ihitzabidea",,,,way
 "Camino de la Ventosa",,,,way
 "Camino de la Ventosa / Ventosa bidea",,,,way
 "Camino de la Vía La Punta",,,,way
@@ -663,6 +660,8 @@ Bolintxubidea,,,,way
 "Celestino María del Arenal plaza / Plaza Celestino María del Arenal",,,,way
 "Celso Negueruela plaza / Plaza Celso Negueruela",,,,way
 "Circo Amateur Club Deportivo Kalea",,,,way
+"Circunvalación este de Bilbao",,,,way
+"Circunvalación sur de Bilbao",,,,way
 "Ciudadela kalea / Calle Ciudadela",,,,way
 "Clara Campoamor kalea",,,,way
 "Club Deportivoren Zirko Amateurraren kalea",,,,way
@@ -900,7 +899,6 @@ Iturrigorribidea,,,,way
 "Kanariar Uharteen zeharkalea / Travesía de las Islas Canarias",,,,way
 "Kanpazargana kalea / Calle Alto de Kanpazar",,,,way
 "Kantauriko Autobidea / Autopista del Cantábrico",,,,way
-"Kantauriko autobia - Autovía del Cantábrico",,,,way
 "Kañu pasealekua / Paseo de los Caños",,,,way
 "Karitateko Alaben kalea / Calle Hijas de la Caridad",,,,way
 "Karmelo kalea",,,,way
@@ -938,6 +936,7 @@ Larraskitubidea,,,,way
 "Lehendakari Leizaola Kalea",,,,way
 "Leizaola lehendakariaren kalea",,,,way
 "Lekanda kalea",,,,way
+"Lekanda kalea (Parking)",,,,way
 "Lepantoko guduaren kalea / Calle Batalla de Lepanto",,,,way
 "Levante plaza",,,,way
 "Lezamako trenbide zaharra kalea",,,,way
@@ -973,7 +972,6 @@ Luzuribidea,,,,way
 "Masustegi estrata / Estrada de Masustegi",,,,way
 "Masustegi kalea / Calle Mazustegui",,,,way
 "Masustegi zeharkalea",,,,way
-"Maurice Ravel etorbidea / Avenida Maurice Ravel",,,,way
 "Mazarredo zumarkalea / Alameda Mazarredo",,,,way
 "Mazustegi zeharkalea",,,,way
 "Mena kalea / Calle Mena",,,,way
@@ -1017,7 +1015,6 @@ Miramarbidea,,,,way
 "Olabeaga adarra / Ramal de Olabeaga",,,,way
 "Olabeaga kaia / Muelle de Olabeaga",,,,way
 "Olagorta kalea / Calle Olagorta",,,,way
-"Olagorta pasealekua",,,,way
 "Olano kalea / Calle Olano",,,,way
 "Olatxu kalea / Calle Olatxu",,,,way
 "Ollerietabarrena kalea / Calle Ollerías Bajas",,,,way
@@ -1179,7 +1176,6 @@ Pagasarribidea,,,,way
 "San Anton kaia / Muelle de San Antón",,,,way
 "San Anton zubia / Puente de San Antón",,,,way
 "San Bernabé auzoa",,,,way
-"San Felicisimo bidea",,,,way
 "San Felicisimo bidea / Camino San Felicísimo",,,,way
 "San Francisquito kalea",,,,way
 "San Isidro kalea / Calle San Isidro",,,,way
@@ -1248,7 +1244,6 @@ Seberetxebidea,,,,way
 "Travesía Zabala / Zabalaren zekarkalea",,,,way
 "Travesía de Tiboli / Tiboli zeharkalea",,,,way
 "Travesía de Uribitarte / Uribitarte zeharkalea",,,,way
-"Travesía de los Espinos / Elorri zeharkalea",,,,way
 "Trenbideko etorbidea / Avenida del Ferrocarril",,,,way
 Trokabidea,,,,way
 "Túnel Carmelo Bernaola",,,,way
@@ -1305,7 +1300,7 @@ Trokabidea,,,,way
 "Zezen pasealekua",,,,way
 "Zizeruena kalea / Calle Zizeruena",,,,way
 "Zona de ejercicios caninos",,,,way
-"Zorrotzaurreko errribera",,,,way
+Zorrotzaurre,,,,relation
 "Zubeko zubia",,,,way
 Zubizuri,,,,way
 "Zuhatzu kalea / Calle Zuhatzu",,,,way
