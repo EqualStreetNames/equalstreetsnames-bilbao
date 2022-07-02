@@ -255,7 +255,7 @@ Bolintxubidea,,,,way
 "Calle Artekale / Artekale",,,,way
 "Calle Arturo Campion / Arturo Campion kalea",,,,way
 "Calle Arturo Campión / Arturo Campion kalea",,,,way
-"Calle Askao / Askao kalea",,,,way
+"Calle Ascao / Askao kalea",,,,way
 "Calle Astillero",,,,way
 "Calle Astillero / Untziola kalea",,,,way
 "Calle Asturias / Asturias kalea",,,,way
@@ -896,6 +896,7 @@ Iturrigorribidea,,,,way
 "Julio Urquijo kalea / Calle Julio Urquijo",,,,way
 "Julita Berrojalbiz kalea / Calle Julita Berrojalbiz",,,,way
 "Kadaguako korridorea - Corredor del Cadagua",,,,way
+"Kalamua kalea / Calle Calva",,,,way
 "Kanariar Uharteen zeharkalea / Travesía de las Islas Canarias",,,,way
 "Kanpazargana kalea / Calle Alto de Kanpazar",,,,way
 "Kantauriko Autobidea / Autopista del Cantábrico",,,,way
@@ -1100,6 +1101,7 @@ Pagasarribidea,,,,way
 "Plaza de San Nicolás",,,,way
 "Plaza de Urízar",,,,way
 "Plaza de la Cantera",,,,way
+"Plaza de los Sanitarios",,,,relation
 "Plaza del Ensanche",,,,way
 "Plaza del Ensanche / Zabalgune plaza",,,,way
 "Plaza del Museo / Museo plaza",,,,way
@@ -1317,6 +1319,5 @@ Zurbaranbarri,,,,way
 "Zurbaranbarri parkea",,,,way
 Zurbaranbidea,,,,way
 aoiz/agoitz,,,,way
-"calle calva",,,,way
 mesas,,,,way
 "sendero bolintxu",,,,way
